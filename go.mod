@@ -14,7 +14,7 @@ require (
 	github.com/jfreymuth/oggvorbis v1.0.3
 	github.com/srwiley/oksvg v0.0.0-20210519022825-9fc0c575d5fe
 	github.com/srwiley/rasterx v0.0.0-20210519020934-456a8d69b780
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.4
 	github.com/veandco/go-sdl2 v0.4.35
 	github.com/vulkan-go/glfw v0.0.0-20210402172934-58379a80228d
 	github.com/vulkan-go/vulkan v0.0.0-20221209234627-c0a353ae26c8
@@ -23,7 +23,7 @@ require (
 )
 
 require (
-	github.com/davecgh/go-spew v1.1.0 // indirect
+	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-gl/gl v0.0.0-20211210172815-726fda9656d6 // indirect
 	github.com/jfreymuth/vorbis v1.0.2 // indirect
 	github.com/kr/pretty v0.2.0 // indirect
@@ -34,7 +34,7 @@ require (
 	golang.org/x/sys v0.10.0 // indirect
 	golang.org/x/text v0.11.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
-	gopkg.in/yaml.v3 v3.0.0 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
 go 1.19
