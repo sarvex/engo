@@ -19,7 +19,7 @@ require (
 	github.com/vulkan-go/glfw v0.0.0-20210402172934-58379a80228d
 	github.com/vulkan-go/vulkan v0.0.0-20221209234627-c0a353ae26c8
 	golang.org/x/image v0.9.0
-	golang.org/x/mobile v0.0.0-20230531173138-3c911d8e3eda
+	golang.org/x/mobile v0.0.0-20230818142238-7088062f872d
 )
 
 require (
@@ -31,7 +31,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	golang.org/x/exp/shiny v0.0.0-20230725093048-515e97ebf090 // indirect
 	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/sys v0.10.0 // indirect
+	golang.org/x/sys v0.11.0 // indirect
 	golang.org/x/text v0.11.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
