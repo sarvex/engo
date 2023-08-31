@@ -12,7 +12,7 @@ require (
 	github.com/hajimehoshi/go-mp3 v0.3.4
 	github.com/hajimehoshi/oto v0.7.1
 	github.com/jfreymuth/oggvorbis v1.0.3
-	github.com/srwiley/oksvg v0.0.0-20210519022825-9fc0c575d5fe
+	github.com/srwiley/oksvg v0.0.0-20221011165216-be6e8873101c
 	github.com/srwiley/rasterx v0.0.0-20210519020934-456a8d69b780
 	github.com/stretchr/testify v1.7.0
 	github.com/veandco/go-sdl2 v0.4.35
