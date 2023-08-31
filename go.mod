@@ -10,7 +10,7 @@ require (
 	github.com/go-gl/glfw/v3.3/glfw v0.0.0-20221017161538-93cebf72946b
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
 	github.com/hajimehoshi/go-mp3 v0.3.4
-	github.com/hajimehoshi/oto v0.7.1
+	github.com/hajimehoshi/oto v1.0.1
 	github.com/jfreymuth/oggvorbis v1.0.5
 	github.com/srwiley/oksvg v0.0.0-20221011165216-be6e8873101c
 	github.com/srwiley/rasterx v0.0.0-20210519020934-456a8d69b780
