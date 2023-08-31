@@ -11,7 +11,7 @@ require (
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
 	github.com/hajimehoshi/go-mp3 v0.3.4
 	github.com/hajimehoshi/oto v0.7.1
-	github.com/jfreymuth/oggvorbis v1.0.3
+	github.com/jfreymuth/oggvorbis v1.0.5
 	github.com/srwiley/oksvg v0.0.0-20221011165216-be6e8873101c
 	github.com/srwiley/rasterx v0.0.0-20210519020934-456a8d69b780
 	github.com/stretchr/testify v1.7.0
