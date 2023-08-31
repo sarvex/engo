@@ -9,7 +9,7 @@ require (
 	github.com/go-bindata/go-bindata v3.1.2+incompatible
 	github.com/go-gl/glfw/v3.3/glfw v0.0.0-20221017161538-93cebf72946b
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
-	github.com/hajimehoshi/go-mp3 v0.3.2
+	github.com/hajimehoshi/go-mp3 v0.3.4
 	github.com/hajimehoshi/oto v0.7.1
 	github.com/jfreymuth/oggvorbis v1.0.3
 	github.com/srwiley/oksvg v0.0.0-20210519022825-9fc0c575d5fe
