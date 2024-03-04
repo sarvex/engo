@@ -14,7 +14,7 @@ require (
 	github.com/jfreymuth/oggvorbis v1.0.5
 	github.com/srwiley/oksvg v0.0.0-20221011165216-be6e8873101c
 	github.com/srwiley/rasterx v0.0.0-20210519020934-456a8d69b780
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/veandco/go-sdl2 v0.4.35
 	github.com/vulkan-go/glfw v0.0.0-20210402172934-58379a80228d
 	github.com/vulkan-go/vulkan v0.0.0-20221209234627-c0a353ae26c8
